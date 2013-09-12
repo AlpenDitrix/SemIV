@@ -1,0 +1,33 @@
+1361307232833	Extract method 'checkDimensioins'
+1361309547795	Rename local variable 'time'
+1361314178523	Move method
+1361314181233	Move method
+1361316618728	Move fields
+1361316625653	Move fields
+1361319287728	Delete elements
+1361386103220	Rename method 'checkMatrixes'
+1361386155738	Rename method 'multiply'
+1361399696043	Rename type 'MatrixMultiplicatorTest'
+1361399822088	Rename field 'A'
+1361399826284	Rename field 'B'
+1361399961104	Rename method 'fillWithDouble'
+1361399971193	Rename method 'fillWithRandomuble'
+1361400285837	Delete element
+1361400371299	Delete element
+1361401636183	Convert anonymous class to nested
+1361401700061	Rename field 'c'
+1361401705811	Rename field 'b'
+1361401983413	Extract method 'getThreads'
+1361402105185	Rename local variable 'C'
+1361402113885	Rename local variable 'result'
+1361402119005	Rename local variable 'resultArary'
+1361402147830	Rename method 'getThreads'
+1361402249958	Rename local variable 'C'
+1361402257593	Rename local variable 'row_i'
+1361402262671	Rename local variable 'col_j'
+1361402292920	Rename local variable 'row_i'
+1361402323321	Rename field 'C'
+1361402328869	Rename local variable 'c'
+1361402451010	Rename local variable 'C'
+1361402461093	Rename field 'result'
+1361430070471	Rename type 'Runner'
