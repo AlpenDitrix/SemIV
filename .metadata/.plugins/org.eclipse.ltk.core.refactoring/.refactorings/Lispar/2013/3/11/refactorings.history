@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;anyObject2&apos; in &apos;A.syncronizedSysOutWith(...)&apos; to &apos;obj&apos;&#x0D;&#x0A;- Original project: &apos;Lispar&apos;&#x0D;&#x0A;- Original element: &apos;A.syncronizedSysOutWith(Object).anyObject2&apos;&#x0D;&#x0A;- Renamed element: &apos;anyObject2&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;anyObject2&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{A.java[A~syncronizedSysOutWith~QObject;@anyObject2!228!244!235!244!QObject;!0!true" name="obj" references="true" stamp="1363165322382" version="1.0"/>
-</session>
